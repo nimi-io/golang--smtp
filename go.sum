@@ -1,0 +1,4 @@
+github.com/mattn/go-sqlite3 v1.14.24 h1:tpSp2G2KyMnnQu99ngJ47EIkWVmliIizyZBfPrBWDRM=
+github.com/mattn/go-sqlite3 v1.14.24/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
+github.com/toorop/go-dkim v0.0.0-20240103092955-90b7d1423f92 h1:flbMkdl6HxQkLs6DDhH1UkcnFpNBOu70391STjMS0O4=
+github.com/toorop/go-dkim v0.0.0-20240103092955-90b7d1423f92/go.mod h1:BzWtXXrXzZUvMacR0oF/fbDDgUPO8L36tDMmRAf14ns=
